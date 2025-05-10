@@ -6,8 +6,6 @@ This project is a simple **Triple Dice Roll App** built using **HTML**, **CSS**,
 
 The application is designed with clean and modular code, adhering to best practices for structure and readability. It is a great example of using basic frontend technologies to create an interactive and fun web app.
 
----
-
 ## Features
 
 - Roll three dice with a single button click
